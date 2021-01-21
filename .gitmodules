@@ -1,0 +1,3 @@
+[submodule "webcam-proxy"]
+	path = webcam-proxy
+	url = https://github.com/ssalonen/webcam-proxy.git
