@@ -11,3 +11,14 @@ Docker wrapper for https://github.com/ssalonen/webcam-proxy
 
 
 
+## Usage
+Refer to https://github.com/ssalonen/webcam-proxy for all the configuration details
+
+Then run the docker image:
+```shell
+docker run -p 3000:3000 --name webcam-proxy --restart=always -d wimmme/docker-webcam-proxy
+```
+Use -p portnumberhost:3000 to remap the webinterface to another port on your host
+
+
+
