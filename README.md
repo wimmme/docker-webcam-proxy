@@ -8,6 +8,6 @@ Docker wrapper for https://github.com/ssalonen/webcam-proxy
 [![Docker Stars](https://img.shields.io/docker/stars/wimmme/docker-webcam-proxy.svg)](https://hub.docker.com/r/wimmme/docker-webcam-proxy)
 [![Docker Pulls](https://img.shields.io/docker/pulls/wimmme/docker-webcam-proxy.svg)](https://hub.docker.com/r/wimmme/docker-webcam-proxy)
 [![Docker Automated buil](https://img.shields.io/docker/automated/wimmme/docker-webcam-proxy.svg)](https://hub.docker.com/r/wimmme/docker-webcam-proxy)
-[![Docker Build Statu](https://img.shields.io/docker/build/wimmme/docker-webcam-proxy.svg)](https://hub.docker.com/r/wimmme/docker-webcam-proxy)
+
 
 
